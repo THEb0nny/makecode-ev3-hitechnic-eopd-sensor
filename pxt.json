@@ -1,0 +1,24 @@
+{
+    "name": "makecode-ev3-hitechnic-eopd-sensor",
+    "description": "",
+    "dependencies": {
+        "ev3": "*",
+        "nxt-light-sensor": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "hteopd.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.40",
+        "targetId": "ev3"
+    },
+    "supportedTargets": [
+        "ev3"
+    ],
+    "preferredEditor": "tsprj"
+}
