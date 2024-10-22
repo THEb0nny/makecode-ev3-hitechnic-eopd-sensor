@@ -1,1 +1,5 @@
-// здесь помещаются тесты; они не будут скомпилированы, пока пакет используется в качестве расширения.
+forever(function () {
+    brick.clearScreen()
+    brick.printValue("eopd", sensors.htEOPD2._readPin1(), 1);
+    pause(10)
+})
