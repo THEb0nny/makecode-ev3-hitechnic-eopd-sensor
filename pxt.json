@@ -1,5 +1,5 @@
 {
-    "name": "makecode-ev3-hitechnic-eopd-sensor",
+    "name": "ht-eopd-sensor",
     "version": "0.1.1",
     "description": "HiTechnic EOPD Sensor support - beta",
     "license": "MIT",
